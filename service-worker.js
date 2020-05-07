@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b237023886319c6aa83ae9f57b01b180"
+    "revision": "971d518ce1bdd789b6c68e7d45fd8991"
   },
   {
     "url": "assets/css/0.styles.6b16b533.css",
@@ -94,7 +94,7 @@ self.__precacheManifest = [
     "revision": "9226bde7d57188bae4fcef8fdec7793c"
   },
   {
-    "url": "assets/js/5.3a41c9ce.js",
+    "url": "assets/js/5.1c3e379c.js",
     "revision": "b84e5f6f95637cf9988af721b7faaf65"
   },
   {
@@ -114,88 +114,88 @@ self.__precacheManifest = [
     "revision": "7d58913ec667099be4c52e62dc1a9822"
   },
   {
-    "url": "assets/js/app.56d2114b.js",
-    "revision": "c645ff19ec2c0143618d6773f9f4ead6"
+    "url": "assets/js/app.9188e49c.js",
+    "revision": "fa679509da6a8b66559807372d935634"
   },
   {
     "url": "fr/help/faq/index.html",
-    "revision": "cdc19334da4b5926c16c2cfa8a6196fb"
+    "revision": "c2d917bc62f9282634c886521721b520"
   },
   {
     "url": "fr/help/guides/getting-started/index.html",
-    "revision": "ca08f86144822c6ed585a5c10020e22b"
+    "revision": "90966a40720ac09cad2fd0eddc63e920"
   },
   {
     "url": "fr/help/index.html",
-    "revision": "f67f82bb010b0bbd78c084b362d25b12"
+    "revision": "a10b9a0e95d8e7fb6c8cad066ad170d2"
   },
   {
     "url": "fr/index.html",
-    "revision": "d749bf11ef367694979f5bdcf2d564b8"
+    "revision": "4658636e2a768a2bc94eefd920d4209c"
   },
   {
     "url": "help/faq/index.html",
-    "revision": "0b7a17a2721e8e9f1d9267e1157aa0fa"
+    "revision": "817661f0092aa2effd226a394c206383"
   },
   {
     "url": "help/guides/getting-started/index.html",
-    "revision": "fb785774e1604de150386858d273c0dc"
+    "revision": "834dda8aaa9de81535d464f575277e04"
   },
   {
     "url": "help/index.html",
-    "revision": "695ef7908bcf6a12e6c7bd60eb709eac"
+    "revision": "c8c928388576ae2ebaec0eaeda4b1a82"
   },
   {
-    "url": "img/android-chrome-192x192.png",
+    "url": "icons/android-chrome-192x192.png",
     "revision": "c97e8a691df9abf97f4c668ecbda9768"
   },
   {
-    "url": "img/android-chrome-512x512.png",
+    "url": "icons/android-chrome-512x512.png",
     "revision": "c085c496019127c205aa7d0352e55313"
   },
   {
-    "url": "img/apple-touch-icon.png",
+    "url": "icons/apple-touch-icon.png",
     "revision": "dea7d9c89fb1d9b6d7e08f4cc4d68f08"
   },
   {
-    "url": "img/favicon-16x16.png",
+    "url": "icons/favicon-16x16.png",
     "revision": "4d9597730f63ad914bf0d15e0869e325"
   },
   {
-    "url": "img/favicon-32x32.png",
+    "url": "icons/favicon-32x32.png",
     "revision": "d56847c010ba76b4bb63e2ee48bc1df4"
   },
   {
-    "url": "img/mstile-150x150.png",
+    "url": "icons/logo.png",
+    "revision": "ee7b1e17796076ddade3958468ac80e7"
+  },
+  {
+    "url": "icons/mstile-150x150.png",
     "revision": "495484cfed365e313c750934d8882ea6"
   },
   {
-    "url": "img/safari-pinned-tab.svg",
+    "url": "icons/safari-pinned-tab.svg",
     "revision": "78dcd70d566ee7b0d9d9b6b659d425e4"
   },
   {
     "url": "index.html",
-    "revision": "d7173cdda6711b367bd6bcc52082afa5"
+    "revision": "42ad35670f4647bd92804ea61479f8d5"
   },
   {
     "url": "it/help/faq/index.html",
-    "revision": "0cb7bb0728363db50008a270156d6931"
+    "revision": "82320916e89d54c6295811e6f3d71418"
   },
   {
     "url": "it/help/guides/getting-started/index.html",
-    "revision": "0fed9303ab130ef5cf060a928692b372"
+    "revision": "3325503d3dcefa917a5c141abcb990c2"
   },
   {
     "url": "it/help/index.html",
-    "revision": "c97c2423a5e05d892a43a935a6b01965"
+    "revision": "3ba656cb52203505038d8769771c5ab5"
   },
   {
     "url": "it/index.html",
-    "revision": "b40cf8830a2c512ba74564a891978a47"
-  },
-  {
-    "url": "logo.png",
-    "revision": "ee7b1e17796076ddade3958468ac80e7"
+    "revision": "6dadfe9517e5069c2d7c7c68f6998efa"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
