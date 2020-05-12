@@ -27,11 +27,11 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "85bae9d5c460f9eb3a12679a9e657610"
+    "revision": "1bb4fa8483c7db5d6289fb8e4a07d019"
   },
   {
-    "url": "assets/css/0.styles.bec6d1a4.css",
-    "revision": "dc5c5344bb6f53cbe5bb24c18e9408c3"
+    "url": "assets/css/0.styles.8d3d0b90.css",
+    "revision": "3f8303cbf4c86f4204aa8c1d648e9278"
   },
   {
     "url": "assets/fonts/element-icons.535877f5.woff",
@@ -62,8 +62,8 @@ self.__precacheManifest = [
     "revision": "291d56f84f381d098a33d89ac0d5e195"
   },
   {
-    "url": "assets/js/14.d7399fa1.js",
-    "revision": "73dc142487963438388c19fc82427684"
+    "url": "assets/js/14.0ed80e03.js",
+    "revision": "3af3827c41ad2c1d1a93c2b786af0ec6"
   },
   {
     "url": "assets/js/15.c12419fb.js",
@@ -142,36 +142,36 @@ self.__precacheManifest = [
     "revision": "0fc114194d9fdc195509a0b0f43dac33"
   },
   {
-    "url": "assets/js/app.ad6ec4b3.js",
-    "revision": "93b37d1d066627ac3b03b3f41bbace63"
+    "url": "assets/js/app.88d13dee.js",
+    "revision": "ddf4f18c4e9aff9620ce3681c3e1807d"
   },
   {
     "url": "fr/help/faq/index.html",
-    "revision": "5bc8ed75408df2ace90f073db19488e8"
+    "revision": "112b37dd9d3cd65419e5f69d3a35f31c"
   },
   {
     "url": "fr/help/guides/getting-started/index.html",
-    "revision": "b34c8136bd8be8c4238f193ac541eab4"
+    "revision": "206a2ad0ad4edfc7a92d9a6e495ff6a6"
   },
   {
     "url": "fr/help/index.html",
-    "revision": "d89461e5a674220dc7a8d0a2a607ad8b"
+    "revision": "dfba5231741865e9ab98bd26f70b0dc2"
   },
   {
     "url": "fr/index.html",
-    "revision": "b5b0c24f69310810e46991b01ec16089"
+    "revision": "804d5d07323c05ad02d6e15de327c801"
   },
   {
     "url": "help/faq/index.html",
-    "revision": "b90d439491fbc22e7690dc8ba3110a9b"
+    "revision": "6e7a83eb39cade08ca5f63453c28abe6"
   },
   {
     "url": "help/guides/getting-started/index.html",
-    "revision": "744d9f97d6b037d51ed7e60679c3e19c"
+    "revision": "4c5976f5f8a4587828a56440d241ef9d"
   },
   {
     "url": "help/index.html",
-    "revision": "d2d617e12aa96c190001387c52d1c733"
+    "revision": "c229efa820c94f8486eb4416a1f90e25"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -219,39 +219,39 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "0e7b9e0e486e57139adc9f7548f84628"
+    "revision": "3afd41a392a1b2a620be0c6387a2eda3"
   },
   {
     "url": "it/help/faq/index.html",
-    "revision": "3d060e063853acd2da1dccc5be4405c5"
+    "revision": "1f8760326e02f2e1fd680d2f636d65eb"
   },
   {
     "url": "it/help/guides/getting-started/index.html",
-    "revision": "0fe01e1df71803971eb3d97e4fa97d0c"
+    "revision": "917a5d6dcb5853ebc73e489ab3231a97"
   },
   {
     "url": "it/help/index.html",
-    "revision": "53aa52cfccd81fcbd4a1b48165c3b578"
+    "revision": "e95f0776ce2b3919c26746b1ae3c6dc7"
   },
   {
     "url": "it/index.html",
-    "revision": "1d8a85d79ce9962a8dbf539030067136"
+    "revision": "2b5b861ded8ed678a6a0b9eb6b6d0d61"
   },
   {
     "url": "nl/help/faq/index.html",
-    "revision": "cab69c95a67cc2204098eab45242f5a3"
+    "revision": "13ef22c0e0270d1b8e265516d8378fd2"
   },
   {
     "url": "nl/help/guides/getting-started/index.html",
-    "revision": "1f3f209881b6b9d74b4a22fd9fb4647c"
+    "revision": "0cd4befc73be7ff921876d8f43713c14"
   },
   {
     "url": "nl/help/index.html",
-    "revision": "a953030b7361cd51b6b3c27052763464"
+    "revision": "5e1e0e821556399556b8938aa9879ede"
   },
   {
     "url": "nl/index.html",
-    "revision": "8d01900a1e2234d3b7b2a488d9018f0b"
+    "revision": "5d99a963249a47ea0dfca1f49f969045"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
