@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "285f621464f337608d7177400660fccb"
+    "revision": "429216bfa9ade57d060e61384c2187cc"
   },
   {
     "url": "assets/AltServer.png",
@@ -198,56 +198,56 @@ self.__precacheManifest = [
     "revision": "70bca4efe920dbce77ee1edb23d3b002"
   },
   {
-    "url": "assets/js/app.254f46c4.js",
-    "revision": "532ea46376456fd7e1080337ae4f8c20"
+    "url": "assets/js/app.a3891921.js",
+    "revision": "9b55e5777a3ec6634ca61108b64e6f25"
   },
   {
     "url": "bg/help/faq/index.html",
-    "revision": "f1ce25e7e666a5f67e965efb3f871745"
+    "revision": "ed5d9e2d69f0f5ddcec48fc4894ad69f"
   },
   {
     "url": "bg/help/guides/getting-started/index.html",
-    "revision": "99630cfd60a004e5f2363d973aa107cb"
+    "revision": "fa7a2a9d41f063e6f44c5f6c78772fe8"
   },
   {
     "url": "bg/help/index.html",
-    "revision": "fa0b2f986be53fa7bba8d1b3585cf2ea"
+    "revision": "a016a731d82354183539ab05bd35ae65"
   },
   {
     "url": "bg/index.html",
-    "revision": "7ce7e1f1b962849ccd931af65b9dde3b"
+    "revision": "dd52b1338f64f43da733a4a6f875ae21"
   },
   {
     "url": "fr/help/faq/index.html",
-    "revision": "0f39816610ca841ae10175263bc1acbf"
+    "revision": "b2311a88da756795aa18ce2b405ecf77"
   },
   {
     "url": "fr/help/guides/getting-started/index.html",
-    "revision": "74bd6d3328badc55474a8e3831ce041d"
+    "revision": "1c9d3f9f1208d6bd77dbb75014313df4"
   },
   {
     "url": "fr/help/index.html",
-    "revision": "05fd8207882d16a2f4c92ea11d7b2d2d"
+    "revision": "a6deeeb72db2bfaa7562082787bb4a45"
   },
   {
     "url": "fr/index.html",
-    "revision": "20c55fcd91976ff1fdb8079fe2c97bd3"
+    "revision": "c1a96121b4959f292eb43e11b8acd4c7"
   },
   {
     "url": "help/faq/index.html",
-    "revision": "98a33d5f2fedf0499a508e2405a13c4b"
+    "revision": "ec4a30f14fb1dfe774020e5ac52d8ae7"
   },
   {
     "url": "help/guides/adding-repos/index.html",
-    "revision": "42e857935333c6570433b43939be178c"
+    "revision": "8e9adfd17666dba4f07a482325e01b88"
   },
   {
     "url": "help/guides/getting-started/index.html",
-    "revision": "f8cd3a44b2c040de10c810e23d764dd8"
+    "revision": "cb252b336709d883eff4214174a28195"
   },
   {
     "url": "help/index.html",
-    "revision": "a4ae0509f4cd8e5296a5209735f5880d"
+    "revision": "d67716daba89cdf831f3b5ef02944dc1"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -295,43 +295,43 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "25cdd42d3590f1dda454d581b5dec799"
+    "revision": "8e6eb779d764dd1ecac64b0b991caa26"
   },
   {
     "url": "it/help/faq/index.html",
-    "revision": "53fde0d99bbef1dc3bdaef2460799b37"
+    "revision": "52dd8f12aca78a4d8d7a5f612f5e6af1"
   },
   {
     "url": "it/help/guides/getting-started/index.html",
-    "revision": "30438b35498e28d818f87a28d772ba18"
+    "revision": "c1bb5324996044e89ec435f21846731a"
   },
   {
     "url": "it/help/index.html",
-    "revision": "836ff3c88564f09c30db4997a5b91913"
+    "revision": "e09dbca9106920e8b4d1c637cacd05b4"
   },
   {
     "url": "it/index.html",
-    "revision": "7c505f5713e8b2bcefa5a0ed240fd585"
+    "revision": "8459197b2ae92577f7df6fb65035ad39"
   },
   {
     "url": "nl/help/faq/index.html",
-    "revision": "857614caf8cbecbb5a5514d3769e2bd8"
+    "revision": "4f7a4ac701a790783a883a8dabe83251"
   },
   {
     "url": "nl/help/guides/getting-started/index.html",
-    "revision": "4b73ef2e19081bf6e7f851ff1db8a3a3"
+    "revision": "6de047e3396e2b40219ab15a0f9a2212"
   },
   {
     "url": "nl/help/index.html",
-    "revision": "b92f8821a286dc9b3936e867dfec329f"
+    "revision": "a1bc04eee79515874b43c67afa6fe392"
   },
   {
     "url": "nl/index.html",
-    "revision": "2a690d33a6a9374ea0eed11a48905ff0"
+    "revision": "c05b81d2f79afcdc7add2dafe175048c"
   },
   {
     "url": "privacy_policy/index.html",
-    "revision": "f2efbcf57ee009ad0c2cdba61519a012"
+    "revision": "7ea20d4e6080be6abdda8945a67ddc36"
   },
   {
     "url": "scripts/remove_service_worker.js",
