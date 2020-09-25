@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "5055b3bcf85f1462729acb46b9bdd7a1"
+    "revision": "0e927a572cbb0ef29de420b9e25213dd"
   },
   {
     "url": "assets/AltServer.png",
@@ -122,8 +122,8 @@ self.__precacheManifest = [
     "revision": "2d9d0e3ec513070498b528e29a87a428"
   },
   {
-    "url": "assets/js/22.5aa07f80.js",
-    "revision": "2b46253526e56bb79faf1dfa39a876aa"
+    "url": "assets/js/22.a1e2d51b.js",
+    "revision": "ee69e878e134e28a0d10e83113d5f94c"
   },
   {
     "url": "assets/js/23.0145162a.js",
@@ -198,56 +198,56 @@ self.__precacheManifest = [
     "revision": "70bca4efe920dbce77ee1edb23d3b002"
   },
   {
-    "url": "assets/js/app.f946057f.js",
-    "revision": "0b2a91915e0dfec7f071b74d656a4eaf"
+    "url": "assets/js/app.077bf59b.js",
+    "revision": "03da1e07021397a52c94e522ee50fa6a"
   },
   {
     "url": "bg/help/faq/index.html",
-    "revision": "26b3a64734f7a848957a6522f6407bcb"
+    "revision": "3a0dc78b89b1ac9aa1a63920574ff168"
   },
   {
     "url": "bg/help/guides/getting-started/index.html",
-    "revision": "a3f9b8c97c178b502b93b746c490b634"
+    "revision": "5b777b2452e030aa89df5153054f3126"
   },
   {
     "url": "bg/help/index.html",
-    "revision": "2810e0e9c08ca9b3fc7160488950cd97"
+    "revision": "77d34452fe7c4db0e3c846d19b68e86e"
   },
   {
     "url": "bg/index.html",
-    "revision": "888cd6f5630c6043778c10bff30d4a83"
+    "revision": "4e3ccac466431920f449e47501b43497"
   },
   {
     "url": "fr/help/faq/index.html",
-    "revision": "98c95ee965b5bf035b0d2019c845b61a"
+    "revision": "732597da8b251df46629e6302043aa5d"
   },
   {
     "url": "fr/help/guides/getting-started/index.html",
-    "revision": "2988a0ce78a13f50dcfe5bb4a977a65f"
+    "revision": "5b13f5d2963f8e32a8f908a26f78b2cc"
   },
   {
     "url": "fr/help/index.html",
-    "revision": "992d46c042007839bd87afecb08e10e9"
+    "revision": "96fe89cba89ec402866bf4aedfa82ae4"
   },
   {
     "url": "fr/index.html",
-    "revision": "d9e484ff91839ebf1e0b901fb189061b"
+    "revision": "c220915140b1c3cda1c1f2ba383ecd8c"
   },
   {
     "url": "help/faq/index.html",
-    "revision": "007d676b0879b86dd4153eb9cc02ed7c"
+    "revision": "e6346e6205536027cac7dd23fe899178"
   },
   {
     "url": "help/guides/adding-repos/index.html",
-    "revision": "1a5f006bb82ce5015b38b8f4d9bb1676"
+    "revision": "e4f2d5141d64b50004211717b2950240"
   },
   {
     "url": "help/guides/getting-started/index.html",
-    "revision": "dc5aa3a8e9a26c26666782754c8ff51a"
+    "revision": "351b944279637ed774de5b8ef9cf32cb"
   },
   {
     "url": "help/index.html",
-    "revision": "a1fce434fc144538a18bf0c8f1d842a2"
+    "revision": "d59bfb3ec58505afc3c78655afa83c86"
   },
   {
     "url": "icons/android-chrome-192x192.png",
@@ -295,43 +295,43 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "500c6c2c6c07e6444d08609b2bee4395"
+    "revision": "1920758f88d82cd2dcd906de15d1793a"
   },
   {
     "url": "it/help/faq/index.html",
-    "revision": "8b2c09f97a8b16d1c5c251f45c12db34"
+    "revision": "94aaca5780378fe2d5833961ba70403d"
   },
   {
     "url": "it/help/guides/getting-started/index.html",
-    "revision": "208390789f9f33aa554e21c9290e95fa"
+    "revision": "5d7681cdd2be729e65863abbf0790030"
   },
   {
     "url": "it/help/index.html",
-    "revision": "76f4b796c95887c007d4e011b7094d6d"
+    "revision": "f1f35d4e13c2ac7828e821d216d6631e"
   },
   {
     "url": "it/index.html",
-    "revision": "70203d460f6c0ad5d7483c1b562cf478"
+    "revision": "6982e2565102b163e7160cab9792a118"
   },
   {
     "url": "nl/help/faq/index.html",
-    "revision": "c17163d38744a1f6bb6f70ce3a8b6cf7"
+    "revision": "be18ac1af815f5f9523d3627980a7947"
   },
   {
     "url": "nl/help/guides/getting-started/index.html",
-    "revision": "6c07cc7a803b44d0a2b8414d49590ff5"
+    "revision": "f754d2edaee1f11da241b2970adabae1"
   },
   {
     "url": "nl/help/index.html",
-    "revision": "0e5402f72597c379f3c6e9d25da09d2a"
+    "revision": "fdc309c024fb333385bf9fb4aa7ddc40"
   },
   {
     "url": "nl/index.html",
-    "revision": "493c34158645888783f0725cbd451730"
+    "revision": "48ffe40d7065d2a4cd85549270ff795c"
   },
   {
     "url": "privacy_policy/index.html",
-    "revision": "59b07467d1a23702b9c928cf0d4e5f86"
+    "revision": "9f4cd6a9dbb72d8f4195102347e44fa4"
   },
   {
     "url": "scripts/remove_service_worker.js",
